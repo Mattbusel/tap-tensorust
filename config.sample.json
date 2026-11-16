@@ -1,0 +1,5 @@
+{
+  "companies": ["Pluralsight", "Assembly Intermediate"],
+  "dataset_slugs": ["afida-foreign-farmland"],
+  "exposure_lists": ["BIOSECURE", "SEC889"]
+}
